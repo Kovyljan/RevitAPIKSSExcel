@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding ="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\TestRevitApps\RevitAPIKSSExcel.dll"</Assembly>		
+		<AddInId>31393844-28B7-48DE-B94D-82C6596C04F5</AddInId>
+		<FullClassName>RevitAPIKSSExcel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Работа с Excel</Text>
+	</AddIn>
+</RevitAddIns>
